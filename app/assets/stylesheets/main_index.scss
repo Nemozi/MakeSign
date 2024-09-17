@@ -1,0 +1,58 @@
+.background-theme{
+    background-color: #d2b300;
+    padding: 5rem;
+    padding-bottom: 0rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-title{
+    font-family: Htw-Bold;
+    font-size: 5rem;
+}
+
+.main-content{
+    font-size: larger;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+.main-logo{
+    max-height: 25rem;
+    padding-right: 10rem;
+}
+
+.main-section{
+    margin-top: 3rem;
+}
+
+.maincontent-section{
+    margin-bottom: 3rem;
+}
+
+.github-section{
+    background-color: #333333;
+    color: white;
+    display: grid;
+    padding: 5rem;
+    padding-bottom: 0rem;
+    padding-top: 1rem;
+}
+
+.github-content{
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+.github-content a{
+    text-decoration: none;
+    color: white;
+}
+.github-content a:hover{
+    color: gray;
+}
+
+.link-logo{
+    max-width: 3rem;
+    margin-right: 1rem;
+}
